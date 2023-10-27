@@ -29,11 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![advice-generator-screenshot1](./public/advice-generator-screenshot1.png)
+![calculator-screenshot1](./public/calculator-screenshot1.png)
 
-![advice-generator-screenshot2](./public/advice-generator-screenshot2.png)
+![calculator-screenshot2](./public/calculator-screenshot2.png)
 
-![advice-generator-screenshot3](./public/advice-generator-screenshot3.png)
+![calculator-screenshot3](./public/calculator-screenshot3.png)
+
+![calculator-screenshot4](./public/calculator-screenshot4.png)
 
 
 ### Links
