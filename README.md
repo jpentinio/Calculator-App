@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Calculator app solution](https://your-solution-url.com)
+- Solution URL: [Calculator app solution](https://www.frontendmentor.io/solutions/calculator-app-using-react-and-tailwindcss-Ss6QDtKaPZ)
 - Live Site URL: [Calculator app solution](https://calculator-app-delta-two.vercel.app/)
 
 ## My process
